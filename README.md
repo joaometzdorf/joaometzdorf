@@ -1,7 +1,7 @@
 ## Olá! Eu sou o João Metzdorf!
 
 - 🌱 Atualmente estou estudando JavaScript.
-- 💡 Fun fact: Antigamente eu era hater de programação.
+- 💡  Fun fact: Antigamente eu era hater de programação.
 
 <div>
   <a href="https://github.com/joaometzdorf">
