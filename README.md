@@ -1,7 +1,6 @@
 ## Olá! Eu sou o João Metzdorf!
 
 - 🌱 Atualmente estou estudando JavaScript.
-- 💡  Fun fact: Antigamente eu era hater de programação.
 
 <div>
   <a href="https://github.com/joaometzdorf">
@@ -18,5 +17,7 @@
 
 <div>
   <a href="mailto:joaovictormetzdorf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
-  <a href="https://www.instagram.com/joaocenk" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
+  <a href="https://www.instagram.com/joaometzdorf" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
+  <a href="https://www.linkedin.com/in/joaometzdorf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
+
 </div>
