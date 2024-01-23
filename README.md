@@ -1,6 +1,6 @@
 ## Olá! Eu sou o João Metzdorf!
 
-- 🌱 Atualmente estou estudando JavaScript.
+- 🌱 Atualmente estou estudando React.
 
 <div>
   <a href="https://github.com/joaometzdorf">
